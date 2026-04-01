@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Bird Clone",
+  "description": "A classic Flappy Bird clone built with React and HTML5 Canvas featuring smooth physics and responsive controls.",
+  "requestFramePermissions": []
+}
