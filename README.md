@@ -26,3 +26,5 @@ To run the game locally, follow these steps:
 
    ```bash
    git clone https://https://github.com/25a35a4305/sky_bird.git
+## Play the Game 🎮
+You can play it here: [Flappy Bird Clone](https://flappy-bird-clone-790131353620.us-west1.run.app/)
