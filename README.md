@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Sky Hopper 🐦
+This is a Flappy Bird–style game built with Python and Pygame. Test your reflexes by guiding a bird through endless pipes in this addictive arcade challenge.
+Features
+- Classic Flappy Bird mechanics with smooth controls.
+- Randomly generated pipes with varying gaps.
+- Collision detection for pipes and ground.
+- Scoring system that tracks successful passes.
+- Start screen and game-over screen with final score display.
+- Lightweight and easy to run locally.
+How to Play
+- Press the Spacebar to flap and keep the bird airborne.
+- Avoid hitting pipes or the ground.
+- Earn points by successfully passing through gaps.
+- Keep playing to beat your high score!
+Installation
+To run the game locally, follow these steps:
+- Clone this repository to your local machine using Git:
+git clone https://github.com/25a35a4305/sky_bird.git
+- Install the required dependency:
+pip install pygame
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/3a049121-036f-42a9-b0b8-3554b23f960e
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Usage
+Navigate to the project folder and run:
+python flappy.py
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The game window will open, and you’re ready to play!
