@@ -8,6 +8,7 @@ Features
 - Start screen and game-over screen with final score display.
 - Lightweight and easy to run locally.
 How to Play
+
 - Press the Spacebar to flap and keep the bird airborne.
 - Avoid hitting pipes or the ground.
 - Earn points by successfully passing through gaps.
