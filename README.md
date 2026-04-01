@@ -1,4 +1,4 @@
-# Sky Hopper 🐦
+# Sky bird🐦
 
 This is a Flappy Bird–style game built with Python and Pygame. Challenge yourself to guide the bird through endless pipes in this addictive arcade adventure.
 
